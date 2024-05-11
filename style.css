@@ -98,7 +98,7 @@ nav {
   margin-left: 1%;
 }
 .img-box {
-  background-image: url(/images/img1.jpg);
+  background-image: url(img1.jpg);
   height: 160px;
   width: 400px;
   margin-top: 5%;
@@ -110,7 +110,7 @@ nav {
   }
 }
 .image-2 {
-  background-image: url(/images/long.png);
+  background-image: url(long.png);
   height: 700px;
   width: 400px;
   &:hover {
@@ -120,7 +120,7 @@ nav {
   }
 }
 .image-3 {
-  background-image: url(/images/news.jpeg);
+  background-image: url(news.jpeg);
   width: 400px;
   height: 206px;
   &:hover {
@@ -130,7 +130,7 @@ nav {
   }
 }
 .image-4 {
-  background-image: url(/images/news2.jpeg);
+  background-image: url(news2.jpeg);
   height: 470px;
   width: 400px;
   &:hover {
@@ -140,7 +140,7 @@ nav {
   }
 }
 .image-5 {
-  background-image: url(/images/three.png);
+  background-image: url(three.png);
   height: 163px;
   width: 400px;
   &:hover {
@@ -150,7 +150,7 @@ nav {
   }
 }
 .image-6 {
-  background-image: url(/images/build.jpeg);
+  background-image: url(build.jpeg);
   height: 250px;
   width: 400px;
   &:hover {
@@ -160,7 +160,7 @@ nav {
   }
 }
 .image-7 {
-  background-image: url(/images/desktop.jpeg);
+  background-image: url(desktop.jpeg);
   height: 220px;
   width: 400px;
   &:hover {
@@ -170,7 +170,7 @@ nav {
   }
 }
 .image-8 {
-  background-image: url(/images/baseline.jpeg);
+  background-image: url(baseline.jpeg);
   height: 200px;
   width: 400px;
   &:hover {
@@ -180,7 +180,7 @@ nav {
   }
 }
 .image-9 {
-  background-image: url(/images/manuscript.jpeg);
+  background-image: url(manuscript.jpeg);
   height: 220px;
   width: 400px;
   &:hover {
@@ -190,7 +190,7 @@ nav {
   }
 }
 .image-10 {
-  background-image: url(/images/column.jpeg);
+  background-image: url(column.jpeg);
   height: 220px;
   width: 400px;
   &:hover {
@@ -200,7 +200,7 @@ nav {
   }
 }
 .image-11 {
-  background-image: url(/images/gutter.jpeg);
+  background-image: url(gutter.jpeg);
   height: 220px;
   width: 400px;
   &:hover {
@@ -210,7 +210,7 @@ nav {
   }
 }
 .image-12 {
-  background-image: url(/images/moduler.jpeg);
+  background-image: url(moduler.jpeg);
   height: 220px;
   width: 400px;
   &:hover {
@@ -220,7 +220,7 @@ nav {
   }
 }
 .image-13 {
-  background-image: url(/images/everlane.png);
+  background-image: url(everlane.png);
   height: 490px;
   width: 400px;
   &:hover {
@@ -230,7 +230,7 @@ nav {
   }
 }
 .image-14 {
-  background-image: url(/images/12column.jpeg);
+  background-image: url(12column.jpeg);
   height: 220px;
   width: 400px;
   &:hover {
@@ -412,7 +412,7 @@ iframe {
     font-size: 17px;
   }
   #click {
-    padding: 16px;
+    padding: 10px;
     &:hover {
       cursor: pointer;
       background-color: transparent;
